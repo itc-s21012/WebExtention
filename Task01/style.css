@@ -1,0 +1,73 @@
+charset "utf-8";
+
+h1.main-style {^M
+        padding: 0.5em;^M
+        color: #010101;^M
+        background: #eaf3ff;^M
+        border-bottom: solid 3px #516ab6;
+}
+h2.main-style {^M
+        padding: 0.25em 0.5em;
+        color: #494949;
+        background: transparent;
+        border-left: solid 5px #7db4e6;
+}
+p {
+color: #ff0000;
+font-weight: bold;
+}
+body {
+font-family: sans-serif;
+}
+body {
+margin: 0;
+}
+body {
+line-height: 1.7;
+}
+a:hover {
+color: #b7dbf2;
+text-decoration: underline;
+}
+a:active {
+color: #4ca4e8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
